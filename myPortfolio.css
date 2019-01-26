@@ -1,0 +1,100 @@
+body{
+  background-color: #2b7a78;
+  font-family: roboto;
+}
+
+#header{
+  background-color: #17252a;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  padding: 0px 0px 0px 0px;
+  text-align: left;
+}
+
+#header-ol{
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 15px;
+}
+
+.header-li{
+  color: #def2f1;
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+}
+
+.header-li:hover{
+  background-color: #3aafa9;
+}
+
+#about{
+  background-color: #3aafa9;
+  margin-top: 120px;
+  padding:  50px 50px 50px 50px;
+}
+
+.dark-title{
+  text-align: center;
+  color: #17252a;
+}
+
+.light-title{
+  text-align: center;
+  color: #def2f1;
+}
+
+#experience {
+  text-align: center;
+  font-size: 22px;
+  margin: 20px 150px 20px 150px
+}
+
+#profession {
+  text-align: center;
+}
+
+#profile-picture {
+  border-radius: 50%;
+  max-height: 20%;
+  max-width: 20%;
+}
+
+#portfolio{
+  background-color: #def2f1;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding:  50px 50px 50px 50px;
+}
+
+#naughty-dog{
+  text-align: center;
+  margin: 30px 30px 30px 30px;
+}
+
+#naughty-dog-img{
+  max-height: 60%;
+  max-width: 60%;
+}
+
+#contact{
+  padding:  50px 50px 50px 50px;
+}
+
+#submit-information{
+  margin-top: 60px;
+  text-align: center;
+}
+
+#footer{
+  background-color: #17252a;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 1rem;
+  text-align: center;
+}
